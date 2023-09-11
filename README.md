@@ -2,7 +2,7 @@
 ![Shot Final](https://github.com/templatevilla/flutterhousekeepingserviceapp/assets/76429360/0c688f3b-cdec-4155-85bc-a7c91725035a)
 
 Download the free Figma file: https://www.uplabs.com/posts/dry-cleaning-app-in-flutter.
-A new Flutter project.
+
 
 ## Getting Started
 
